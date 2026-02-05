@@ -1,0 +1,430 @@
+[
+  {
+    "title": "CMU TalentHub",
+    "description": "Talent management and recruitment platform for Central Michigan University. Connects students with opportunities, employers with talent, and provides a streamlined experience for job matching and professional development.",
+    "type": "mobile",
+    "image": "/CMU TalentHub/image.png",
+    "technologies": [
+      "React Native",
+      "TypeScript",
+      "Node.js",
+      "PostgreSQL",
+      "REST APIs"
+    ],
+    "period": "2025 - Present",
+    "company": "Central Michigan University",
+    "liveUrl": null,
+    "appStoreUrl": "https://apps.apple.com/us/app/cmu-talenthub/id6757563079",
+    "playStoreUrl": null,
+    "githubUrl": null,
+    "highlights": [
+      "Talent Matching",
+      "Campus Recruitment",
+      "Professional Development",
+      "Secure Login"
+    ],
+    "videos": [
+      {
+        "label": "Mobile Video",
+        "src": "/CMU TalentHub/Mobile Video.MP4",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "title": "AttendIQ",
+    "description": "Smart attendance and engagement platform for organizations. Features mobile and web applications for check-in, scheduling, and real-time attendance tracking with a modern, user-friendly experience.",
+    "type": "hybrid",
+    "image": "/AttendIQ/image.png",
+    "mobile": {
+      "image": "/AttendIQ/image.png",
+      "description": "Mobile app for quick check-in, notifications, and on-the-go attendance management."
+    },
+    "web": {
+      "image": "/AttendIQ/image.png",
+      "description": "Web dashboard for administrators to manage attendance, view reports, and configure settings."
+    },
+    "technologies": [
+      "React",
+      "React Native",
+      "Node.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "REST APIs"
+    ],
+    "period": "2024 - 2025",
+    "company": "Growthsense",
+    "liveUrl": "https://attend-iq.netlify.app",
+    "appStoreUrl": "https://apps.apple.com/ca/app/attend-iq/id6756984192",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.attendiq.app",
+    "githubUrl": null,
+    "highlights": [
+      "Smart Check-in",
+      "Real-time Tracking",
+      "Mobile & Web",
+      "Modern UI"
+    ],
+    "videos": [
+      {
+        "label": "Mobile Video",
+        "src": "/AttendIQ/Mobile Video.mov",
+        "type": "mobile"
+      },
+      {
+        "label": "Web Video",
+        "src": "/AttendIQ/Web Video.mov",
+        "type": "web"
+      }
+    ]
+  },
+  {
+    "title": "Alatoul",
+    "description": "Comprehensive platform featuring mapping, location services, and dashboard analytics. Delivers a clean, intuitive web experience for managing and visualizing geographic and operational data.",
+    "type": "web",
+    "image": "/Alatoul/Image.png",
+    "technologies": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "Maps APIs",
+      "PostgreSQL"
+    ],
+    "period": "2024",
+    "company": "Growthsense",
+    "liveUrl": "https://alatoul.netlify.app",
+    "githubUrl": null,
+    "highlights": [
+      "Mapping",
+      "Dashboard Analytics",
+      "Data Visualization",
+      "Clean UI"
+    ],
+    "videos": [
+      {
+        "label": "Video Demo",
+        "src": "/Alatoul/Video Demo.mov",
+        "type": "web"
+      }
+    ]
+  },
+  {
+    "title": "Corners",
+    "description": "Explore Africa like never before. Platform showcasing African heritage, travel, and culture with immersive content, destination guides, and community-driven experiences.",
+    "type": "web",
+    "image": "/Corners/image.png",
+    "technologies": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "REST APIs"
+    ],
+    "period": "2024",
+    "company": "Growthsense",
+    "liveUrl": "https://acorners.netlify.app",
+    "githubUrl": null,
+    "highlights": [
+      "African Heritage",
+      "Travel & Culture",
+      "Immersive Content",
+      "Community"
+    ],
+    "videos": [
+      {
+        "label": "Web Video",
+        "src": "/Corners/Web Video.mov",
+        "type": "web"
+      }
+    ]
+  },
+  {
+    "title": "Water Docking Platform",
+    "description": "Analytics and management platform for water docking operations. Provides real-time dashboards, reporting, and operational insights for maritime and docking facilities.",
+    "type": "web",
+    "image": "/Water Docking Platform/image.png",
+    "technologies": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "Data Visualization",
+      "REST APIs"
+    ],
+    "period": "2024",
+    "company": "Growthsense",
+    "liveUrl": "https://water-docking-app.netlify.app",
+    "githubUrl": null,
+    "highlights": [
+      "Analytics Dashboard",
+      "Real-time Data",
+      "Reporting",
+      "Operational Insights"
+    ],
+    "videos": [
+      {
+        "label": "Web Video",
+        "src": "/Water Docking Platform/Web Video.mov",
+        "type": "web"
+      }
+    ]
+  },
+  {
+    "title": "Multi-Currency Remittance System",
+    "description": "A secure mobile application allowing users to send, request, convert, and pay money in multiple currencies. Integrated Stellar blockchain for secure and swift P2P transfers, bill payments, and financial management with real-time transaction tracking.",
+    "type": "mobile",
+    "image": "/mobile/a.png",
+    "technologies": [
+      "React Native",
+      "Node.js",
+      "PostgreSQL",
+      "Stellar Blockchain",
+      "Redux",
+      "TypeScript",
+      "JWT",
+      "NestJS",
+      "REST APIs"
+    ],
+    "period": "May 2024 - Dec 2024",
+    "company": "Growthsense",
+    "liveUrl": null,
+    "appStoreUrl": "https://apps.apple.com/us/app/xgatepay-by-growthsense-ltd/id6480584791",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.xGate.Payment&hl=en_US",
+    "githubUrl": null,
+    "highlights": [
+      "Blockchain Integration",
+      "Multi-currency Support",
+      "Real-time Transactions",
+      "Security-First Design"
+    ]
+  },
+  {
+    "title": "Payrite Payroll System",
+    "description": "Comprehensive payroll management system for businesses to handle employee payments, tax calculations, and financial reporting with automated processing and compliance features.",
+    "type": "web",
+    "image": "/slate/c.png",
+    "technologies": [
+      "React.js",
+      "Node.js",
+      "PostgreSQL",
+      "TypeScript",
+      "Tailwind CSS",
+      "Redux",
+      "NestJS",
+      "REST APIs"
+    ],
+    "period": "Mar 2024 - Apr 2024",
+    "company": "Growthsense",
+    "liveUrl": "https://dev.payrite.co.zw/login",
+    "githubUrl": null,
+    "highlights": [
+      "Payroll Automation",
+      "Tax Compliance",
+      "Financial Reporting",
+      "Employee Management"
+    ]
+  },
+  {
+    "title": "Medical Reporting & Shift Scheduling Platform",
+    "description": "Comprehensive system for UK care agencies to manage medication administration records and staff scheduling. Features real-time medication tracking, patient information management, and Medication Administration Record (MAR) charts.",
+    "type": "hybrid",
+    "mobile": {
+      "image": "/mobile/b.jpeg",
+      "description": "Mobile application for caregivers to record medication administration, view patient information, and manage daily tasks on-the-go."
+    },
+    "web": {
+      "image": "/task-management-dashboard.png",
+      "description": "Web dashboard for administrators to manage staff schedules, patient records, and generate comprehensive reports."
+    },
+    "technologies": [
+      "Next.js",
+      "React Native",
+      "PostgreSQL",
+      "Node.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Redux",
+      "NestJS",
+      "REST APIs"
+    ],
+    "period": "Apr 2023 - Dec 2023",
+    "company": "Growthsense",
+    "liveUrl": "https://elmscare.co.uk/",
+    "appStoreUrl": "https://apps.apple.com/us/app/elms-app/id6448575766",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.recruit.elms&hl=en_US",
+    "githubUrl": null,
+    "highlights": [
+      "Healthcare Compliance",
+      "Real-time Scheduling",
+      "Patient Safety",
+      "HIPAA Compliant"
+    ]
+  },
+  {
+    "title": "Rota and Leave Management System",
+    "description": "Full-featured scheduling platform for caregivers with separate web application for administrators and mobile application for caregivers. Includes scheduling calendar, shift management, and comprehensive system reports.",
+    "type": "hybrid",
+    "mobile": {
+      "image": "/mobile/c.jpeg",
+      "description": "Mobile app for caregivers to view schedules, request leave, and manage their work assignments."
+    },
+    "web": {
+      "image": "/Rota and Leave Management System/Web/a.png",
+      "description": "Web platform for administrators to create schedules, approve leave requests, and generate reports."
+    },
+    "technologies": [
+      "React.js",
+      "React Native",
+      "Next.js",
+      "PostgreSQL",
+      "Node.js",
+      "Tailwind CSS",
+      "TypeScript",
+      "Redux",
+      "NestJS"
+    ],
+    "period": "Jan 2024 - Mar 2024",
+    "company": "Growthsense",
+    "liveUrl": "https://rota.elmscare.co.uk/",
+    "appStoreUrl": "https://apps.apple.com/us/app/elms-rota/id6670752483",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mapepaprosper.elmsrotamanagement&hl=en_US",
+    "githubUrl": null,
+    "highlights": [
+      "Smart Scheduling",
+      "Leave Management",
+      "Real-time Updates",
+      "Comprehensive Reporting"
+    ]
+  },
+  {
+    "title": "Local Remittance System",
+    "description": "Secure, user-friendly money transfer system facilitating seamless transfers within specific regions or countries. Features multi-wallet support, real-time balance updates, transaction history management, and comprehensive financial tracking.",
+    "type": "web",
+    "image": "/mobile/d.jpeg",
+    "technologies": [
+      "React.js",
+      "Node.js",
+      "PostgreSQL",
+      "Tailwind CSS",
+      "Redux",
+      "TypeScript",
+      "JWT",
+      "NestJS",
+      "REST APIs"
+    ],
+    "period": "Oct 2022 - Mar 2023",
+    "company": "Growthsense",
+    "liveUrl": "https://readlycash.com/",
+    "githubUrl": null,
+    "highlights": [
+      "Secure Transfers",
+      "Multi-wallet Support",
+      "Real-time Tracking",
+      "Financial Analytics"
+    ]
+  },
+  {
+    "title": "Blue Spotlight UK",
+    "description": "Dynamic and responsive website dedicated to promoting artists, music events, and entertainment content across the UK. Platform showcases rising talent, music releases, exclusive interviews, and event highlights in a mobile-friendly format.",
+    "type": "web",
+    "image": "/modern-portfolio-website.png",
+    "technologies": [
+      "WordPress",
+      "PHP",
+      "JavaScript",
+      "CSS",
+      "REST APIs",
+      "Figma",
+      "SEO Optimization"
+    ],
+    "period": "Sep 2023 - Oct 2023",
+    "company": "Growthsense",
+    "liveUrl": "https://bluespotlightuk.com/",
+    "githubUrl": null,
+    "highlights": [
+      "Artist Promotion",
+      "Event Management",
+      "Content Management",
+      "SEO Optimized"
+    ]
+  },
+  {
+    "title": "Fleet Management System",
+    "description": "Comprehensive fleet management solution for taxi and commuter bus companies. Provides real-time vehicle tracking, driver management, route optimization, and operational analytics for transportation businesses.",
+    "type": "web",
+    "image": "/slate/b.png",
+    "technologies": [
+      "TypeScript",
+      "React.js",
+      "Node.js",
+      "PostgreSQL",
+      "Real-time APIs"
+    ],
+    "liveUrl": null,
+    "githubUrl": null,
+    "highlights": [
+      "Real-time Tracking",
+      "Route Optimization",
+      "Driver Management",
+      "Operational Analytics"
+    ]
+  },
+  {
+    "title": "CMU Slate Student Orientation",
+    "description": "Interactive orientation platform for Central Michigan University students. Provides campus information, course registration guidance, and student resource management.",
+    "type": "web",
+    "image": "/slate/c.png",
+    "technologies": [
+      "TypeScript",
+      "React.js",
+      "Node.js",
+      "Student APIs"
+    ],
+    "liveUrl": null,
+    "githubUrl": null,
+    "highlights": [
+      "Student Orientation",
+      "Campus Information",
+      "Course Registration",
+      "Resource Management"
+    ]
+  },
+  {
+    "title": "CMU Off-Campus Accommodation",
+    "description": "Platform helping CMU students find off-campus housing options. Features property listings, roommate matching, and accommodation reviews.",
+    "type": "web",
+    "image": "/accomodation/a.png",
+    "technologies": [
+      "TypeScript",
+      "React.js",
+      "Node.js",
+      "PostgreSQL"
+    ],
+    "liveUrl": null,
+    "githubUrl": null,
+    "highlights": [
+      "Housing Listings",
+      "Roommate Matching",
+      "Accommodation Reviews",
+      "Student Housing"
+    ]
+  },
+  {
+    "title": "CMU Student Perks",
+    "description": "Platform providing CMU students access to free software, services, and resources worth thousands of dollars. Centralized hub for student benefits, academic tools, and campus resources in one convenient location.",
+    "type": "web",
+    "image": "/perks/a.png",
+    "technologies": [
+      "TypeScript",
+      "React.js",
+      "Node.js",
+      "Student APIs"
+    ],
+    "liveUrl": null,
+    "githubUrl": null,
+    "highlights": [
+      "Student Resources",
+      "Academic Tools",
+      "Cost Savings",
+      "Centralized Access"
+    ]
+  }
+]
